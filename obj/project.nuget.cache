@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPvzupVE5utjKY8FzpiK8DIG3j7La2i0OCyiN+XqViblLpBsjaE+RHGzAU6V+ip7FCH4X3r/iPGrI6L38TOoPA==",
+  "success": true,
+  "projectFilePath": "/Volumes/Drive A/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohamaddoustar/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mohamaddoustar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mohamaddoustar/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mohamaddoustar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mohamaddoustar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mohamaddoustar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/mohamaddoustar/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/mohamaddoustar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/mohamaddoustar/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.14/microsoft.netcore.app.host.osx-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
